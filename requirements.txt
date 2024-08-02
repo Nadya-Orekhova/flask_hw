@@ -1,0 +1,11 @@
+Flask==3.0.3
+Flask-Bcrypt==1.0.1
+psycopg2-binary==2.9.9
+pydantic==2.8.2
+pytest==8.3.2
+requests==2.31.0
+SQLAlchemy==2.0.31
+
+
+
+
